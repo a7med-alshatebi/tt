@@ -2,11 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  .html-input {
-    @apply border: 1px solid black;
-    @apply padding: 0.5rem;
-   @apply background-color: black;
-    @apply color: white;
-  }
-}
